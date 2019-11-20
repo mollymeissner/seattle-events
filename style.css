@@ -1,10 +1,10 @@
 body {
-    background-color: bisque;
+    background-color: rgba(58, 121, 84, 0.822);
 }
 
 ul {
-    border: 10px solid;
-    border-color: black;
+    border: 5px solid;
+    border-color: rgb(1, 46, 1);
 }
 
 li {
@@ -23,7 +23,8 @@ h1 {
 }
 
 h2 {
-    font-family: Verdana
+    font-family: Georgia;
+    color: rgb(1, 46, 1);
 }
 
 footer {
